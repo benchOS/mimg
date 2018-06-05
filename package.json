@@ -1,0 +1,21 @@
+{
+  "name": "mimg",
+  "version": "1.0.0",
+  "description": "benOS Native Executable For Mounting and Partitioning Images.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "bin": {
+    "mimg": "./index.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benchOS/mimg.git"
+  },
+  "author": "Bench Open Systems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benchOS/mimg/issues"
+  },
+  "homepage": "https://github.com/benchOS/mimg"
+}
