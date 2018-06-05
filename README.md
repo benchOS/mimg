@@ -1,4 +1,4 @@
-# mimg (CLI Prompt Interface)
+# mimg (Image Mounter / Partitioner)
 [![benOSShield-Official](https://img.shields.io/badge/benOS-Native-brightgreen.svg)](https://github.com/benchOS/benOS)[![benOSShield-Utils](https://img.shields.io/badge/benOS-Utils-brightgreen.svg)](https://github.com/benchOS/benOS)[![build status](http://img.shields.io/travis/benchOS/mimg.svg?style=flat)](http://travis-ci.org/benchOS/mimg)[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![benOSRepoHeader](https://raw.githubusercontent.com/benchOS/benchOS-design/master/repo-headers/benos-mimg-header.png)](https://github.com/benchOS/mimg)
 <br>
@@ -19,6 +19,7 @@ benOS Native Executable For Mounting and Partitioning Images.
 
 ## Background
 benOS Native Executable For Mounting and Partitioning Images.
+[![mimgTerminalScreen](https://raw.githubusercontent.com/benchOS/benchOS-design/master/terminal-screens/mimg.png)](https://github.com/benchOS/mimg)
 
 ### With NPM
 ```
